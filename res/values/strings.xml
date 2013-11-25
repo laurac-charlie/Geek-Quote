@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, QuoteListActivity!</string>
+    <string name="app_name">Geek Quote</string>
+    <string name="add_quote">Add Quote</string>
+    <string name="no_quote">No quote to display</string>
+    <string name="no_date">No date</string>
+    <string name="hintText">Type your quote here</string>
+    
+    <string-array name="my_array">
+	    <item>Windows you have to reboot, Linux you have to be root</item>
+	    <item>Windows > Mac OS</item>
+	    <item>One does not simply invite geek quotes</item>
+  	</string-array>
+    
+
+</resources>
